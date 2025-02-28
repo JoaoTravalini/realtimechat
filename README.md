@@ -1,4 +1,4 @@
-# **📌 Descrição do Projeto - Pokédex**  
+# **📌 Descrição do Projeto - Real Time Chat**  
 Este projeto consiste em um chat em tempo real apenas para visualização das mensagens em dois navegadores/abas diferentes, utilizando **Angular**, **TypeScript** e **Socket.io**. O objetivo é praticar o uso do framework e as respectivas linguagens e bibliotecas utilizadas.  
 
 ### 🎥 **Vídeo para visualização do projeto:**  
